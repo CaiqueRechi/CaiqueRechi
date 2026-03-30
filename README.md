@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Caique Rechi 👋
 
-<!--
-**CaiqueRechi/CaiqueRechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-Focused Full-Stack Developer with 4+ years of experience building production systems for e-commerce, SaaS, and enterprise environments.
 
-Here are some ideas to get you started:
+My strongest expertise is in **PHP, REST APIs, payment integrations, legacy modernization, and scalable business systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on strengthening my **Laravel ecosystem, modern backend architecture, and cloud-ready engineering practices**.
+
+---
+
+## 🚀 Core Stack
+- PHP (5.4 / 7.4 / 8.3)
+- Laravel
+- REST APIs
+- MySQL / MariaDB
+- JavaScript / jQuery
+- Docker
+- Git
+- MVC
+- E-commerce
+- Payment Integrations
+
+---
+
+## 💳 Featured Expertise
+- Transparent checkout integrations
+- Seller-based payment workflows
+- Legacy PHP modernization
+- API backward compatibility
+- ERP and business systems
+- Debugging critical production issues
+- KPI and analytical reporting
+
+---
+
+## 🌱 Current Focus
+- Laravel deep dive
+- Scalable API architecture
+- Automated testing
+- AWS fundamentals
+- Dockerized local environments
+- Portfolio ecosystem projects
+
+---
+
+## 🏆 Highlights
+- 🥇 NASA Space Apps Hackathon Medalist
+- 💳 Built transparent Mercado Pago checkout workflows
+- ☁️ Enterprise API evolution with Apple integrations
+- 🌾 Professional foundation in Laravel through ERP development
+
+---
+
+## 🔗 Connect with me
+- LinkedIn: https://linkedin.com/in/caique-rechi
+- Email: caique.rechi.dev@gmail.com
