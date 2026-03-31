@@ -22,7 +22,7 @@ Currently focused on strengthening my **Laravel ecosystem, modern backend archit
 
 ---
 
-## 💳 Featured Expertise
+## 💳 Domain Expertise
 - Transparent checkout integrations
 - Seller-based payment workflows
 - Legacy PHP modernization
