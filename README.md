@@ -17,6 +17,6 @@ I enjoy transforming complex business rules into secure and maintainable softwar
 * NASA Space Apps Challenge medalist
 * Based in Brazil and open to remote opportunities
 
-[Portfolio](https://rechi.net.br/) · [LinkedIn](COLOQUE-SEU-LINK-AQUI)
+[Portfolio](https://rechi.net.br/) · [LinkedIn]([https://www.linkedin.com/in/caique-rechi/])
 
 > Building useful software and leaving the codebase better than I found it.
