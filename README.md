@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile-banner.png" alt="Caique Rechi — PHP & Laravel Developer" width="100%">
+</p>
+
 # Hi, I'm Caique Rechi 👋
 
 **Backend-Focused Full-Stack Developer | PHP & Laravel**
@@ -17,6 +21,6 @@ I enjoy transforming complex business rules into secure and maintainable softwar
 * NASA Space Apps Challenge medalist
 * Based in Brazil and open to remote opportunities
 
-[Portfolio](https://rechi.net.br/) · [LinkedIn]([https://www.linkedin.com/in/caique-rechi/])
+[Portfolio](https://rechi.net.br/) · [LinkedIn](https://www.linkedin.com/in/caique-rechi/)
 
 > Building useful software and leaving the codebase better than I found it.
