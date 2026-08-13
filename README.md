@@ -12,7 +12,21 @@ I enjoy transforming complex business rules into secure and maintainable softwar
 
 ### Main stack
 
-`PHP` · `Laravel` · `MySQL` · `JavaScript` · `Blade` · `Tailwind CSS` · `Docker` · `GitHub Actions`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,tailwind,docker,git,github&theme=dark" alt="PHP, Laravel, MySQL, JavaScript, HTML, CSS, Tailwind CSS, Docker, Git and GitHub" />
+</p>
+
+<p align="center">
+  <sub><strong>PHP</strong> · <strong>Laravel</strong> · MySQL · JavaScript · HTML · CSS · Tailwind CSS · Docker · Git · GitHub</sub>
+</p>
+
+### GitHub highlights
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CaiqueRechi&theme=aura&no-bg=true&no-frame=true&margin-w=8&margin-h=8&column=-1" alt="Caique Rechi GitHub trophies" />
+  </a>
+</p>
 
 ### A little more about me
 
