@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="title desc">
+  <title id="title">Caique Rechi developer highlights</title>
+  <desc id="desc">Four profile highlight cards using the Rechi brand palette.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1D161F"/>
+      <stop offset="1" stop-color="#2A202D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#DB633A"/>
+      <stop offset="1" stop-color="#D4A047"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="190" rx="24" fill="url(#panel)"/>
+  <rect x="1" y="1" width="998" height="188" rx="23" fill="none" stroke="#533D64" stroke-width="2"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <!-- Card 1 -->
+    <g transform="translate(28 28)">
+      <rect width="222" height="134" rx="18" fill="#241B27" stroke="#533D64"/>
+      <circle cx="38" cy="40" r="22" fill="#533D64"/>
+      <path d="M28 35h20v5H28zm0 9h14v5H28z" fill="#FFECA5"/>
+      <text x="72" y="37" fill="#FFECA5" font-size="13" font-weight="700" letter-spacing="1.3">CORE STACK</text>
+      <text x="28" y="86" fill="#FFFFFF" font-size="24" font-weight="700">PHP &amp; Laravel</text>
+      <rect x="28" y="106" width="72" height="4" rx="2" fill="url(#accent)"/>
+    </g>
+
+    <!-- Card 2 -->
+    <g transform="translate(268 28)">
+      <rect width="222" height="134" rx="18" fill="#241B27" stroke="#533D64"/>
+      <circle cx="38" cy="40" r="22" fill="#DB633A"/>
+      <path d="M26 40h24M38 28v24M30 32l16 16M46 32L30 48" stroke="#1D161F" stroke-width="3" stroke-linecap="round"/>
+      <text x="72" y="37" fill="#D4A047" font-size="13" font-weight="700" letter-spacing="1.3">BACKEND</text>
+      <text x="28" y="86" fill="#FFFFFF" font-size="24" font-weight="700">REST APIs</text>
+      <rect x="28" y="106" width="72" height="4" rx="2" fill="url(#accent)"/>
+    </g>
+
+    <!-- Card 3 -->
+    <g transform="translate(508 28)">
+      <rect width="222" height="134" rx="18" fill="#241B27" stroke="#533D64"/>
+      <circle cx="38" cy="40" r="22" fill="#D4A047"/>
+      <path d="M38 25l4 9 10 1-8 7 3 10-9-5-9 5 3-10-8-7 10-1z" fill="#1D161F"/>
+      <text x="72" y="37" fill="#FFECA5" font-size="13" font-weight="700" letter-spacing="1.3">EXPERIENCE</text>
+      <text x="28" y="86" fill="#FFFFFF" font-size="24" font-weight="700">4+ Years</text>
+      <rect x="28" y="106" width="72" height="4" rx="2" fill="url(#accent)"/>
+    </g>
+
+    <!-- Card 4 -->
+    <g transform="translate(748 28)">
+      <rect width="224" height="134" rx="18" fill="#241B27" stroke="#533D64"/>
+      <circle cx="38" cy="40" r="22" fill="#FFECA5"/>
+      <path d="M38 25l4 9 10 1-8 7 3 10-9-5-9 5 3-10-8-7 10-1z" fill="#DB633A"/>
+      <text x="72" y="37" fill="#D4A047" font-size="13" font-weight="700" letter-spacing="1.15">ACHIEVEMENT</text>
+      <text x="28" y="82" fill="#FFFFFF" font-size="20" font-weight="700">NASA Space Apps</text>
+      <text x="28" y="105" fill="#FFECA5" font-size="14" font-weight="700">MEDALIST</text>
+      <rect x="28" y="116" width="72" height="4" rx="2" fill="url(#accent)"/>
+    </g>
+  </g>
+</svg>
