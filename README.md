@@ -24,7 +24,7 @@ I enjoy transforming complex business rules into secure and maintainable softwar
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CaiqueRechi&theme=aura&no-bg=true&no-frame=true&margin-w=8&margin-h=8&column=-1" alt="Caique Rechi GitHub trophies" />
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=CaiqueRechi&theme=aura&no-bg=true&no-frame=true&margin-w=8&margin-h=8&column=-1" alt="Caique Rechi GitHub trophies" />
   </a>
 </p>
 
