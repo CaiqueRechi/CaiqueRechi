@@ -6,7 +6,7 @@
 
 **Backend-Focused Full-Stack Developer | PHP & Laravel**
 
-I’m a Brazilian developer with 4+ years of experience building web applications, REST APIs, payment integrations and internal business systems.
+I’m a Brazilian developer with 5+ years of experience building web applications, REST APIs, payment integrations and internal business systems.
 
 I enjoy transforming complex business rules into secure and maintainable software.
 
