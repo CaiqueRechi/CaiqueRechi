@@ -6,7 +6,7 @@
 
 **Backend-Focused Full-Stack Developer | PHP & Laravel**
 
-I’m a Brazilian developer with 4+ years of experience building and evolving production web applications, REST APIs, payment integrations and internal business systems.
+I’m a Brazilian developer with 5+ years of experience building and evolving production web applications, REST APIs, payment integrations and internal business systems.
 
 I enjoy transforming complex business rules into secure, maintainable software and improving the engineering practices around the systems I work on.
 
@@ -24,8 +24,24 @@ I enjoy transforming complex business rules into secure, maintainable software a
 
 - **[Rechi](https://github.com/CaiqueRechi/Portifolio)** — Laravel 13 + React/Inertia application with access control, external integrations, encrypted credentials, Redis, automated tests, static analysis and CI/CD.
 - **[Payment Flow Service](https://github.com/CaiqueRechi/payment-flow-service)** — Laravel API focused on payment lifecycle management, auditable status history and automated tests.
-- **[rm-skill-claude](https://github.com/CaiqueRechi/rm-skill-claude)** — Versioned Claude Code skill with engineering conventions, validation, automated releases and checksums.
+- **[Claude Crow](https://github.com/CaiqueRechi/claude-crow)** — Versioned Claude Code plugin with engineering skills, validation, automated releases and checksums.
 - **[BudgetCore](https://github.com/CaiqueRechi/budgetcore-app)** — Laravel financial management system covering customers, suppliers, transactions and accounts payable.
+
+### Developer tooling
+
+<p align="center">
+  <a href="https://github.com/CaiqueRechi/claude-crow">
+    <img src="https://raw.githubusercontent.com/CaiqueRechi/claude-crow/main/assets/logo.png" alt="Claude Crow" width="190">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/CaiqueRechi/rm-skill-codex">
+    <img src="https://raw.githubusercontent.com/CaiqueRechi/rm-skill-codex/main/assets/logo.png" alt="CrowDex" width="190">
+  </a>
+</p>
+
+**[Claude Crow](https://github.com/CaiqueRechi/claude-crow)** — My Claude Code plugin for project context, engineering conventions, requirements analysis, implementation, local Docker workflows and defensive security validation.
+
+**[CrowDex](https://github.com/CaiqueRechi/rm-skill-codex)** — The Codex adaptation of these skills, designed to preserve conventions and workflow continuity across both coding tools.
 
 ### A little more about me
 
