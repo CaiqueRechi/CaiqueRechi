@@ -54,19 +54,26 @@ I enjoy transforming complex business rules into secure, maintainable software a
 
 ### Developer tooling
 
-<p align="center">
-  <a href="https://github.com/CaiqueRechi/claude-crow">
-    <img src="https://raw.githubusercontent.com/CaiqueRechi/claude-crow/main/assets/logo.png" alt="Claude Crow" width="190">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/CaiqueRechi/rm-skill-codex">
-    <img src="https://raw.githubusercontent.com/CaiqueRechi/rm-skill-codex/main/assets/logo.png" alt="CrowDex" width="190">
-  </a>
-</p>
-
-**[Claude Crow](https://github.com/CaiqueRechi/claude-crow)** — My Claude Code plugin for project context, engineering conventions, requirements analysis, implementation, local Docker workflows and defensive security validation.
-
-**[CrowDex](https://github.com/CaiqueRechi/rm-skill-codex)** — The Codex adaptation of these skills, designed to preserve conventions and workflow continuity across both coding tools.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/CaiqueRechi/claude-crow">
+        <img src="https://raw.githubusercontent.com/CaiqueRechi/claude-crow/main/assets/logo.png" alt="Claude Crow" width="190">
+      </a>
+      <p><strong><a href="https://github.com/CaiqueRechi/claude-crow">Claude Crow</a></strong></p>
+      <p>Claude Code plugin for project context, engineering conventions, requirements analysis, implementation, local Docker workflows and defensive security validation.</p>
+      <sub>Claude Code · Engineering Skills · Automation</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/CaiqueRechi/rm-skill-codex">
+        <img src="https://raw.githubusercontent.com/CaiqueRechi/rm-skill-codex/main/assets/logo.png" alt="CrowDex" width="190">
+      </a>
+      <p><strong><a href="https://github.com/CaiqueRechi/rm-skill-codex">CrowDex</a></strong></p>
+      <p>Codex adaptation of the engineering skills, designed to preserve project conventions and workflow continuity across coding tools.</p>
+      <sub>Codex · Engineering Skills · Workflow Continuity</sub>
+    </td>
+  </tr>
+</table>
 
 ### A little more about me
 
