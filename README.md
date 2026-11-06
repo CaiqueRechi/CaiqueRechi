@@ -26,6 +26,31 @@ I enjoy transforming complex business rules into secure, maintainable software a
 - **[Payment Flow Service](https://github.com/CaiqueRechi/payment-flow-service)** — Laravel API focused on payment lifecycle management, auditable status history and automated tests.
 - **[Claude Crow](https://github.com/CaiqueRechi/claude-crow)** — Versioned Claude Code plugin with engineering skills, validation, automated releases and checksums.
 - **[BudgetCore](https://github.com/CaiqueRechi/budgetcore-app)** — Laravel financial management system covering customers, suppliers, transactions and accounts payable.
+- **[Crow Vault Canvas](https://github.com/CaiqueRechi/crow-vault-canvas/tree/main)** — Private knowledge canvas for Rechi OS, built with Laravel, React and React Flow, featuring Markdown revisions, contextual relations, search and versioned perspectives.
+- **E.R.I.S. (Entidade Relacional de Inteligência Sintética)** — Private, locally hosted personal AI project exploring persistent identity, controlled memory, owner-managed permissions and on-device inference.
+
+### Personal projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/CaiqueRechi/crow-vault-canvas/tree/main">
+        <img src="https://raw.githubusercontent.com/CaiqueRechi/crow-vault-canvas/main/resources/images/brand/cvc-logo-official.png" alt="Crow Vault Canvas official logo" width="250">
+      </a>
+      <p><strong><a href="https://github.com/CaiqueRechi/crow-vault-canvas/tree/main">Crow Vault Canvas</a></strong></p>
+      <p>Visual knowledge management for Rechi OS, with universes, contexts, connected entities and private Markdown documents.</p>
+      <sub>Laravel · React · React Flow · Knowledge Management</sub>
+    </td>
+    <td align="center" width="50%">
+      <p><strong>E.R.I.S.</strong></p>
+      <p><em>Visual identity coming soon</em></p>
+      <p><strong>Entidade Relacional de Inteligência Sintética</strong></p>
+      <p>Local-first personal AI with persistent identity, traceable memory and owner-controlled behavior and permissions.</p>
+      <sub>Python · SQLite · llama.cpp · Local AI</sub>
+      <p><sub>Private project · In development</sub></p>
+    </td>
+  </tr>
+</table>
 
 ### Developer tooling
 
