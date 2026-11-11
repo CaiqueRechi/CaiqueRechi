@@ -35,7 +35,7 @@ I enjoy transforming complex business rules into secure, maintainable software a
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/CaiqueRechi/crow-vault-canvas/tree/main">
-        <img src="https://raw.githubusercontent.com/CaiqueRechi/crow-vault-canvas/main/resources/Corvo%20C%C3%B3smico%20sob%20Gal%C3%A1xia%20Dourada.png" alt="Crow Vault Canvas official logo" width="190">
+        <img src="https://raw.githubusercontent.com/CaiqueRechi/crow-vault-canvas/main/resources/Crow_Vault_Canvas_final.png" alt="Crow Vault Canvas official logo" width="190">
       </a>
       <p><strong><a href="https://github.com/CaiqueRechi/crow-vault-canvas/tree/main">Crow Vault Canvas</a></strong></p>
       <p>Visual knowledge management for Rechi OS, with universes, contexts, connected entities and private Markdown documents.</p>
