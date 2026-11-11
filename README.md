@@ -58,7 +58,7 @@ I enjoy transforming complex business rules into secure, maintainable software a
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/CaiqueRechi/claude-crow">
-        <img src="https://raw.githubusercontent.com/CaiqueRechi/claude-crow/main/assets/logo.png" alt="Claude Crow" width="190">
+        <img src="https://raw.githubusercontent.com/CaiqueRechi/claude-crow/main/assets/Claude_Crow_transparente_1024.png" alt="Claude Crow" width="190">
       </a>
       <p><strong><a href="https://github.com/CaiqueRechi/claude-crow">Claude Crow</a></strong></p>
       <p>Claude Code plugin for project context, engineering conventions, requirements analysis, implementation, local Docker workflows and defensive security validation.</p>
@@ -66,7 +66,7 @@ I enjoy transforming complex business rules into secure, maintainable software a
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/CaiqueRechi/rm-skill-codex">
-        <img src="https://raw.githubusercontent.com/CaiqueRechi/rm-skill-codex/main/assets/logo.png" alt="CrowDex" width="190">
+        <img src="https://raw.githubusercontent.com/CaiqueRechi/rm-skill-codex/main/assets/CrowDex_transparente_1024.png" alt="CrowDex" width="190">
       </a>
       <p><strong><a href="https://github.com/CaiqueRechi/rm-skill-codex">CrowDex</a></strong></p>
       <p>Codex adaptation of the engineering skills, designed to preserve project conventions and workflow continuity across coding tools.</p>
