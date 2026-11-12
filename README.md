@@ -26,7 +26,7 @@ I enjoy transforming complex business rules into secure, maintainable software a
 - **[Payment Flow Service](https://github.com/CaiqueRechi/payment-flow-service)** — Laravel API focused on payment lifecycle management, auditable status history and automated tests.
 - **[Claude Crow](https://github.com/CaiqueRechi/claude-crow)** — Versioned Claude Code plugin with engineering skills, validation, automated releases and checksums.
 - **[BudgetCore](https://github.com/CaiqueRechi/budgetcore-app)** — Laravel financial management system covering customers, suppliers, transactions and accounts payable.
-- **[Crow Vault Canvas](https://github.com/CaiqueRechi/crow-vault-canvas/tree/main)** — Private knowledge canvas for Rechi OS, built with Laravel, React and React Flow, featuring Markdown revisions, contextual relations, search and versioned perspectives.
+- **[Crow Vault Canvas](https://github.com/CaiqueRechi/Codex-Noctarium)** — Private knowledge canvas for Rechi OS, built with Laravel, React and React Flow, featuring Markdown revisions, contextual relations, search and versioned perspectives.
 - **E.R.I.S. (Entidade Relacional de Inteligência Sintética)** — Private, locally hosted personal AI project exploring persistent identity, controlled memory, owner-managed permissions and on-device inference.
 
 ### Personal projects
@@ -34,10 +34,10 @@ I enjoy transforming complex business rules into secure, maintainable software a
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/CaiqueRechi/crow-vault-canvas/tree/main">
-        <img src="https://raw.githubusercontent.com/CaiqueRechi/crow-vault-canvas/main/resources/images/brand/codex-noctarium-logo.png" alt="Codex Noctarium official logo" width="190">
+      <a href="https://github.com/CaiqueRechi/Codex-Noctarium">
+        <img src="https://raw.githubusercontent.com/CaiqueRechi/Codex-Noctarium/main/resources/images/brand/codex-noctarium-logo.png" alt="Codex Noctarium official logo" width="190">
       </a>
-      <p><strong><a href="https://github.com/CaiqueRechi/crow-vault-canvas/tree/main">Codex Noctarium</a></strong></p>
+      <p><strong><a href="https://github.com/CaiqueRechi/Codex-Noctarium">Codex Noctarium</a></strong></p>
       <p>Visual knowledge management for Rechi OS, with universes, contexts, connected entities and private Markdown documents.</p>
       <sub>Laravel · React · React Flow · Knowledge Management</sub>
     </td>
