@@ -42,8 +42,8 @@ I enjoy transforming complex business rules into secure, maintainable software a
       <sub>Laravel · React · React Flow · Knowledge Management</sub>
     </td>
     <td align="center" width="50%">
+      <img src="./assets/ERIS_Icon_1024.png" alt="E.R.I.S. — official pixel art portrait" width="190">
       <p><strong>E.R.I.S.</strong></p>
-      <p><em>Visual identity coming soon</em></p>
       <p><strong>Entidade Relacional de Inteligência Sintética</strong></p>
       <p>Local-first personal AI with persistent identity, traceable memory and owner-controlled behavior and permissions.</p>
       <sub>Python · SQLite · llama.cpp · Local AI</sub>
