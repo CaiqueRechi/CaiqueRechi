@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.webp" alt="Caique Rechi — Coven profile banner" width="100%">
+  <img src="./assets/Adesivo%20Graffiti%20de%20Desenvolvedor%20Backend.png" alt="Caique Rechi — Coven graffiti profile banner" width="100%">
 </p>
 
 <p align="left">
