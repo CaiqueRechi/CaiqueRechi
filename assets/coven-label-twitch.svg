@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="30" viewBox="0 0 125 30" role="img" aria-label="Twitch">
+  <title>Twitch</title>
+  <path d="M8 24H43M82 24H117" stroke="#8F6C43" stroke-width=".8" opacity=".75"/>
+  <text x="62.5" y="17" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#F0E6DC">Twitch</text>
+  <path d="M62.5 23l2 2-2 2-2-2z" fill="#D8B779"/>
+</svg>
