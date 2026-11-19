@@ -3,5 +3,5 @@
 </p>
 
 <p align="left">
-  <img src="./assets/coven-avatar.png" alt="Coven character" width="270">
+  <img src="./assets/Homem%20com%20Moletom%20e%20Gesto%20de%20Arma.png" alt="Coven character" width="270">
 </p>
