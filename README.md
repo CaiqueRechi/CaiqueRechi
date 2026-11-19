@@ -3,5 +3,5 @@
 </p>
 
 <p align="left">
-  <img src="./assets/avatar_coven_recortado.png" alt="Coven avatar" width="190"><img src="./assets/Colagem%20Graffiti%20de%20Logos%20Tech.png" alt="Technology logos in Coven street art" width="570">
+  <img src="./assets/avatar_coven_recortado.png" alt="Coven avatar" width="190"><img src="./assets/Bras%C3%A3o%20Tech%20G%C3%B3tico%20com%20Corvo%20e%20Caveira.png" alt="Coven gothic technology mural" width="570">
 </p>
